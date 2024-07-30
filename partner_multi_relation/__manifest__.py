@@ -8,11 +8,6 @@
     "complexity": "normal",
     "category": "Customer Relationship Management",
     "license": "AGPL-3",
-    "description": """
-Partner Relations
-=================
-This module allows you to define relations between partners.
-    """,
     "depends": ["contacts", "sales_team"],
     "demo": ["data/demo.xml"],
     "data": [
